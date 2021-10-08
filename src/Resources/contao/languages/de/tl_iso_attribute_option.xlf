@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><xliff version="1.1">
+    <file datatype="php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="tl_iso_attribute_option.price_for_variants.0">
+                <source>Price for variants</source>
+                <target>Preis für Varianten</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_attribute_option.price_for_variants.1">
+                <source>This price is used for the variant price generation.</source>
+                <target>Dieser Preis wird für die Varianten-Preis-Generierung verwendet.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

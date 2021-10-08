@@ -1,0 +1,34 @@
+{
+    "name": "marcosimbuerger/contao-isotope-variant-price-by-attribute-option",
+    "description": "Variant price by attribute option generator for Contao Isotope eCommerce.",
+    "keywords": ["contao", "isotope", "ecommerce", "variant", "price", "attribute", "option", "generator"],
+    "homepage": "https://github.com/marcosimbuerger",
+    "type": "contao-bundle",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Marco Simbürger",
+            "homepage": "https://www.marcosimbuerger.ch"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "contao/core-bundle": "^4.4",
+        "isotope/isotope-core": "^2.0"
+    },
+    "conflict": {
+        "contao/core": "*",
+        "contao/manager-plugin": "<2.0 || >=3.0"
+    },
+    "extra": {
+        "contao-manager-plugin": "MarcoSimbuerger\\IsotopeVariantPriceByAttributeOptionBundle\\ContaoManager\\Plugin"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarcoSimbuerger\\IsotopeVariantPriceByAttributeOptionBundle\\": "src/"
+        },
+        "classmap": [
+            "src/"
+        ]
+    }
+}

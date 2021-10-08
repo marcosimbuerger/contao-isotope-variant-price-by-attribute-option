@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><xliff version="1.1">
+    <file datatype="php" source-language="en">
+        <body>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option.0">
+                <source>Generate variant price by attribute option</source>
+                <target>Generate variant price by attribute option</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option.1">
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_generate.0">
+                <source>Generate variant price for the listed products</source>
+                <target>Generate variant price for the listed products</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_generate.1">
+                <source>This action changes the price of the variants of the listed parent products in the database. The change cannot be undone!</source>
+                <target>This action changes the price of the variants of the listed parent products in the database. The change cannot be undone!</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_successful.0">
+                <source>The variant prices were generated.</source>
+                <target>The variant prices were generated.</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_successful.1">
+                <source></source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_error.0">
+                <source>An error occurred while generating the variant prices. Please check the logs.</source>
+                <target>An error occurred while generating the variant prices. Please check the logs.</target>
+            </trans-unit>
+            <trans-unit id="tl_iso_product.generate_variant_price_by_attribute_option_error.1">
+                <source></source>
+                <target></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
